@@ -11,7 +11,7 @@ A simple and easy to develop AR project to teach young students the use and conf
 ### How do I get set up? ###
 
 * Download the full package
-* Open the "Proyecto Unity" folder into Unity 3D software to check it or...
+* Open the "LogronoInteractivo" folder into Unity 3D software to check it or...
 * Install the MapaInteractivo.apk inside the "Builds" folder into your Android device to try it.
 
 ### Contribution guidelines ###
