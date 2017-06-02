@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogronoInteractivo", "LogronoInteractivo.csproj", "{FF58292A-9387-9E61-DF1D-F1D53A663DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogronoInteractivo.Editor", "LogronoInteractivo.Editor.csproj", "{23B9F7AC-9567-BD6B-87F2-90E733968B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF58292A-9387-9E61-DF1D-F1D53A663DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF58292A-9387-9E61-DF1D-F1D53A663DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF58292A-9387-9E61-DF1D-F1D53A663DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF58292A-9387-9E61-DF1D-F1D53A663DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B9F7AC-9567-BD6B-87F2-90E733968B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B9F7AC-9567-BD6B-87F2-90E733968B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B9F7AC-9567-BD6B-87F2-90E733968B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B9F7AC-9567-BD6B-87F2-90E733968B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

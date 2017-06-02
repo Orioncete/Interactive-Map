@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IconoBalon" size="30.000000 30.000000" />
+    <ImageTarget name="IconoCatedral" size="30.000000 30.000000" />
+    <ImageTarget name="IconoEspartero" size="30.000000 30.000000" />
+    <ImageTarget name="IconoMuralla" size="30.000000 30.000000" />
+    <ImageTarget name="Icono4Puente" size="30.000000 30.000000" />
+    <ImageTarget name="IconoPiscina" size="30.000000 30.000000" />
+  </Tracking>
+</QCARConfig>
